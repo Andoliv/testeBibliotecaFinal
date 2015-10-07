@@ -1,5 +1,5 @@
 # Teste Programador Java
-Teste para programador Java Desbravador
+Teste para programador Java
 
 
 Abaixo segue o que será necessário para a realização do teste, possibilitando que você deixe tudo preparado para o dia marcado:
@@ -22,5 +22,3 @@ Abaixo segue o que será necessário para a realização do teste, possibilitand
  <li>O teste deverá ser enviado em um e-mail contento o link para o repositório deste projeto em sua conta pessoal no GitHub.</li>
  
 Outras informações serão enviadas no e-mail juntamente com o teste.
-# testeBiblioteca
-# testeBibliotecaFinal
