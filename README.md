@@ -15,10 +15,4 @@ Abaixo segue o que será necessário para a realização do teste, possibilitand
 <li>Interface web com Bootstrap </li> 
 <br/>
 <b>Banco de Dados</b>:
-<li>Postgres</li> 
-<li>O script das tabelas será enviado juntamente com a prova</li> 
-<br/>
-<b>Entrega</b>:
- <li>O teste deverá ser enviado em um e-mail contento o link para o repositório deste projeto em sua conta pessoal no GitHub.</li>
- 
-Outras informações serão enviadas no e-mail juntamente com o teste.
+<li>Postgres</li>
